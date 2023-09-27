@@ -1,0 +1,402 @@
+[
+  {
+    "owner": null,
+    "name": "Luxury Villa in Mumbai",
+    "price": 20000,
+    "address": "123 Main Street, Mumbai, India",
+    "beds": 5,
+    "bathrooms": 3,
+    "area": 3500,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Cozy Apartment in Mumbai",
+    "price": 45000,
+    "address": "456 Elm Street, Mumbai, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 1200,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Elegant PG in Delhi",
+    "price": 12000,
+    "address": "789 Oak Avenue, Delhi, India",
+    "beds": 1,
+    "bathrooms": 2,
+    "area": 2500,
+    "type": "PGs"
+  },
+  {
+    "owner": null,
+    "name": "Modern Apartment in Bangalore",
+    "price": 35000,
+    "address": "101 Pine Road, Bangalore, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1500,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Shared Dormitory in Kolkata",
+    "price": 80000,
+    "address": "222 Cedar Lane, Kolkata, India",
+    "beds": 6,
+    "bathrooms": 3,
+    "area": 6000,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Lakeview OYO in Udaipur",
+    "price": 150000,
+    "address": "555 Willow Street, Udaipur, India",
+    "beds": 4,
+    "bathrooms": 2,
+    "area": 8000,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Mountain Retreat in Shimla",
+    "price": 180000,
+    "address": "789 Pine Avenue, Shimla, India",
+    "beds": 6,
+    "bathrooms": 4,
+    "area": 2500,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Student Dorm in Pune",
+    "price": 60000,
+    "address": "333 Birch Lane, Pune, India",
+    "beds": 8,
+    "bathrooms": 4,
+    "area": 1000,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Seaside OYO in Goa",
+    "price": 25000,
+    "address": "777 Beach Road, Goa, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 1100,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Charming Flat in Mumbai",
+    "price": 55000,
+    "address": "321 Oak Street, Mumbai, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1400,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Shared PG in Delhi",
+    "price": 8000,
+    "address": "456 Elm Street, Delhi, India",
+    "beds": 1,
+    "bathrooms": 2,
+    "area": 250,
+    "type": "PGs"
+  },
+  {
+    "owner": null,
+    "name": "City Center Apartment in Bangalore",
+    "price": 40000,
+    "address": "555 Pine Road, Bangalore, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 1100,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Budget Dormitory in Kolkata",
+    "price": 5000,
+    "address": "222 Cedar Lane, Kolkata, India",
+    "beds": 4,
+    "bathrooms": 3,
+    "area": 750,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Historic OYO in Udaipur",
+    "price": 10000,
+    "address": "555 Willow Street, Udaipur, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 900,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Mountain View Bungalow in Shimla",
+    "price": 200000,
+    "address": "789 Pine Avenue, Shimla, India",
+    "beds": 5,
+    "bathrooms": 4,
+    "area": 2200,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Student Dorm in Pune",
+    "price": 7000,
+    "address": "333 Birch Lane, Pune, India",
+    "beds": 7,
+    "bathrooms": 3,
+    "area": 900,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Riverside OYO in Goa",
+    "price": 12000,
+    "address": "777 Beach Road, Goa, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1000,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Elegant Flat in Mumbai",
+    "price": 60000,
+    "address": "123 Main Street, Mumbai, India",
+    "beds": 4,
+    "bathrooms": 3,
+    "area": 1600,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Private PG in Delhi",
+    "price": 15000,
+    "address": "456 Elm Street, Delhi, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 600,
+    "type": "PGs"
+  },
+  {
+    "owner": null,
+    "name": "City Center Apartment in Bangalore",
+    "price": 55000,
+    "address": "555 Pine Road, Bangalore, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1300,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Budget Dormitory in Kolkata",
+    "price": 3500,
+    "address": "222 Cedar Lane, Kolkata, India",
+    "beds": 6,
+    "bathrooms": 3,
+    "area": 750,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Historic OYO in Udaipur",
+    "price": 10000,
+    "address": "555 Willow Street, Udaipur, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 900,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Mountain View Bungalow in Shimla",
+    "price": 220000,
+    "address": "789 Pine Avenue, Shimla, India",
+    "beds": 4,
+    "bathrooms": 3,
+    "area": 1800,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Student Dorm in Pune",
+    "price": 7000,
+    "address": "333 Birch Lane, Pune, India",
+    "beds": 7,
+    "bathrooms": 3,
+    "area": 900,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Seaside OYO in Goa",
+    "price": 28000,
+    "address": "777 Beach Road, Goa, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1200,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Elegant Flat in Mumbai",
+    "price": 60000,
+    "address": "123 Main Street, Mumbai, India",
+    "beds": 4,
+    "bathrooms": 3,
+    "area": 1600,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Private PG in Delhi",
+    "price": 15000,
+    "address": "456 Elm Street, Delhi, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 600,
+    "type": "PGs"
+  },
+  {
+    "owner": null,
+    "name": "City Center Apartment in Bangalore",
+    "price": 55000,
+    "address": "555 Pine Road, Bangalore, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1300,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Budget Dormitory in Kolkata",
+    "price": 3500,
+    "address": "222 Cedar Lane, Kolkata, India",
+    "beds": 6,
+    "bathrooms": 3,
+    "area": 750,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Historic OYO in Udaipur",
+    "price": 10000,
+    "address": "555 Willow Street, Udaipur, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 900,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Mountain View Bungalow in Shimla",
+    "price": 220000,
+    "address": "789 Pine Avenue, Shimla, India",
+    "beds": 4,
+    "bathrooms": 3,
+    "area": 1800,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Luxury Villa in Mumbai",
+    "price": 220000,
+    "address": "123 Main Street, Mumbai, India",
+    "beds": 5,
+    "bathrooms": 4,
+    "area": 2500,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Cozy Apartment in Mumbai",
+    "price": 40000,
+    "address": "456 Elm Street, Mumbai, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 1100,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Elegant PG in Delhi",
+    "price": 12000,
+    "address": "789 Oak Avenue, Delhi, India",
+    "beds": 1,
+    "bathrooms": 2,
+    "area": 250,
+    "type": "PGs"
+  },
+  {
+    "owner": null,
+    "name": "Modern Apartment in Bangalore",
+    "price": 35000,
+    "address": "101 Pine Road, Bangalore, India",
+    "beds": 3,
+    "bathrooms": 2,
+    "area": 1500,
+    "type": "Flats"
+  },
+  {
+    "owner": null,
+    "name": "Shared Dormitory in Kolkata",
+    "price": 8000,
+    "address": "222 Cedar Lane, Kolkata, India",
+    "beds": 6,
+    "bathrooms": 3,
+    "area": 600,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Lakeview OYO in Udaipur",
+    "price": 15000,
+    "address": "555 Willow Street, Udaipur, India",
+    "beds": 4,
+    "bathrooms": 2,
+    "area": 800,
+    "type": "OYO"
+  },
+  {
+    "owner": null,
+    "name": "Mountain Retreat in Shimla",
+    "price": 180000,
+    "address": "789 Pine Avenue, Shimla, India",
+    "beds": 6,
+    "bathrooms": 4,
+    "area": 2500,
+    "type": "Bunglows"
+  },
+  {
+    "owner": null,
+    "name": "Student Dorm in Pune",
+    "price": 6000,
+    "address": "333 Birch Lane, Pune, India",
+    "beds": 8,
+    "bathrooms": 4,
+    "area": 1000,
+    "type": "Dormitories"
+  },
+  {
+    "owner": null,
+    "name": "Seaside OYO in Goa",
+    "price": 25000,
+    "address": "777 Beach Road, Goa, India",
+    "beds": 2,
+    "bathrooms": 2,
+    "area": 1100,
+    "type": "OYO"
+  }
+]

@@ -41,14 +41,9 @@ const Import = async () => {
       .then(async () => {
         // Then seed properties with random owners
         await Property.deleteMany();
-        seedProperties()
-          .then(() => {
-            // Close the database connection when done
-            disconnectDB();
-          })
-          .catch((error) => {
-            console.error("Error seeding properties:", error);
-          });
+        seedProperties().catch((error) => {
+          console.error("Error seeding properties:", error);
+        });
       })
       .catch((error) => {
         console.error("Error seeding users:", error);

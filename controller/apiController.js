@@ -164,6 +164,21 @@ const login = async (req, res) => {
       email: user.email,
     };
     const token = generateAccessToken(userObject);
+    const decode = await jwt.verify(
+      token,
+      process.env.TOKEN_SECRET,
+      (err, user) => {
+        if (err) return res.status(403).send("Invalid token.");
+
+        req.user = user; // Set req.user
+        // next();
+        console.log(req.user);
+        console.log("inside verfy");
+      }
+    );
+    console.log(decode);
+
+    // authenticateToken(token);
     return res.status(201).json({ message: "login succesfull", token: token });
   } catch (err) {
     return res.status(401).json({ message: "Invalid Username/Password!" });

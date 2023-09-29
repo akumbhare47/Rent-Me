@@ -15,3 +15,5 @@ POST /api/property ---> add property after signup
 DELETE /api/property/:id ---> delete property with id
 PUT /api/property/:id ---> update existing property
 GET /api/property ---> get signed in user property
+
+readme updated
